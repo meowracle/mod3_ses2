@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="Gradle : com.codegym : mod3_ses2-1.0-SNAPSHOT.war" />
+    </root>
+  </artifact>
+</component>
